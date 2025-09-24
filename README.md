@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nhật Bủn</h1>
-<h3 align="center">💻 Full-stack Developer (Java Spring / ReactJS)</h3>
+<h3 align="center">💻 Backend Developer (Java Spring / ReactJS)</h3>
 
 <p align="center">⚡ <em>Fun fact:</em> Dốt toán + tiếng Anh nhưng vẫn đam mê học IT 🐧</p>
 
